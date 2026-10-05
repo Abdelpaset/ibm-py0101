@@ -370,7 +370,7 @@ print("-" * 30)              # a divider line
 def quiz():
     questions = [
         {"q": "Q1. 7 // 2 = ?",
-         "options": ["3.5", "3", "4", "1"], "answer": "3"},
+         "options": ["3.5", "3", "4", "1"], "answer": "2"},
         {"q": "Q2. 7 % 2 = ?",
          "options": ["0", "1", "3", "3.5"], "answer": "1"},
         {"q": "Q3. 2 + 3 * 4 = ?",
@@ -447,4 +447,4 @@ if __name__ == "__main__":
 #       - Your interactive score
 #       - One thing that surprised you
 # [ ] Move on to Lesson 1.4 - String Operations.
-# ------------------------------------------------------------
+# ------------------------------------------------------------python 
